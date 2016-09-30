@@ -1,0 +1,2 @@
+--format documentation --colour -b --tty
+--require spec_helper
