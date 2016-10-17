@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    dynasore (0.1.0)
+    dynasore (0.1.1)
       aws-record
       aws-sdk (~> 2)
       rails
